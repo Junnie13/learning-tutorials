@@ -8,16 +8,11 @@ The main purpose of this repository is to organize and store learning materials 
 
 ## Contents 📝
 
-### 1. YouTube Tutorials 🎥
-- [Tensorflow Tutorial for Python in 10 Minutes by Nicholas Renotte](https://www.youtube.com/watch?v=6_2hzRopPbQ): A curated collection of tutorials covering [topic/subject]. I find these tutorials particularly helpful because [reason].
-
-https://www.tensorflow.org/api_docs/python/tf/all_symbols
-
-### 2. Documentation 📄
-- [Document Name](documentation_link): This document provides in-depth information on [topic/subject]. I refer to it frequently for [specific purpose or use case].
-
-### 3. Additional Resources 🌟
-- [Resource Name](resource_link): Description of the resource and how it complements my learning journey.
+### 1. Tensorflow Tutorial for Python in 10 Minutes by Nicholas Renotte
+- [YouTube Link](https://www.youtube.com/watch?v=6_2hzRopPbQ)
+    1. Notes
+- [YouTube Link](https://www.tensorflow.org/api_docs/python/tf/all_symbols)
+    1. Notes
 
 ## Contribution Guidelines 🤝
 
