@@ -8,10 +8,28 @@ The main purpose of this repository is to organize and store learning materials 
 
 ## Contents 📝
 
-### 1. Tensorflow Tutorial for Python in 10 Minutes by Nicholas Renotte
+### 1. Tensorflow Tutorial for Python in 10 Minutes by Nicholas Renotte (tensorflow)
 - [YouTube Link](https://www.youtube.com/watch?v=6_2hzRopPbQ)
     1. Notes
-- [YouTube Link](https://www.tensorflow.org/api_docs/python/tf/all_symbols)
+- [Documentation](https://www.tensorflow.org/api_docs/python/tf/all_symbols)
+    1. Notes
+
+### 2. Python Sentiment Analysis Project with NLTK and 🤗 Transformers. Classify Amazon Reviews!! by Rob Mulla (nlp-tutorial)
+- [YouTube Link](https://www.youtube.com/watch?v=QpzMWQvxXWk)
+    1. Notes
+- [Documentation](https://www.tensorflow.org/api_docs/python/tf/all_symbols)
+    1. Notes
+
+### 3. Power Bi Project End-to-end | Sales Dashboard | Beginners | Complete Project | Resume - 2024 by DataWolfs (powerbi-sales)
+- [YouTube Link](https://www.youtube.com/watch?v=7IJ3fKB8nrw)
+    1. Notes
+- [Documentation](https://www.tensorflow.org/api_docs/python/tf/all_symbols)
+    1. Notes
+
+### 4. 🚖 Uber Data Analytics | End-To-End Data Engineering Project by Darshil Parmar (uber-analytics)
+- [YouTube Link](https://www.youtube.com/watch?v=WpQECq5Hx9g)
+    1. Notes
+- [Documentation](https://www.tensorflow.org/api_docs/python/tf/all_symbols)
     1. Notes
 
 ## Contribution Guidelines 🤝
