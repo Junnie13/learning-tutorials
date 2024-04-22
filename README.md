@@ -10,7 +10,8 @@ The main purpose of this repository is to organize and store learning materials 
 
 ### 1. Tensorflow Tutorial for Python in 10 Minutes by Nicholas Renotte (tensorflow)
 - [YouTube Link](https://www.youtube.com/watch?v=6_2hzRopPbQ)
-    1. Notes
+    1. For VSCode, go inside your project folder and initialize a virtual environment using "python -m venv env" and activate it using ".\env\Scripts\activate.Ps1" in PowerShell.
+    2. If you are using Jupyter Notebook, run "pip install ipykernel" first before installing other dependencies using "pip install -r requirements.txt".
 - [Documentation](https://www.tensorflow.org/api_docs/python/tf/all_symbols)
     1. Notes
 
