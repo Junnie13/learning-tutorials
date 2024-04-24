@@ -18,6 +18,8 @@ The main purpose of this repository is to organize and store learning materials 
     2. If you are using Jupyter Notebook, run "pip install ipykernel" first before installing other dependencies using "pip install -r requirements.txt".
     3. Aside from #2, 
 
+    these are all for Python scripts, jupyter notebooks have a different way of activating the virtual environment using venv instead, also next time, 1 workspace = 1 virtual environment
+
     jupyter kernelspec uninstall env
 
 ### 2. Python Sentiment Analysis Project with NLTK and 🤗 Transformers. Classify Amazon Reviews!! by Rob Mulla (nlp-tutorial)
