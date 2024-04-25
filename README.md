@@ -25,7 +25,7 @@ The main purpose of this repository is to organize and store learning materials 
 ### 2. Python Sentiment Analysis Project with NLTK and 🤗 Transformers. Classify Amazon Reviews!! by Rob Mulla (nlp-tutorial)
 - [YouTube Link](https://www.youtube.com/watch?v=QpzMWQvxXWk)
     1. Notes
-- [Documentation](https://www.tensorflow.org/api_docs/python/tf/all_symbols)
+- [Hugging Face Models](https://huggingface.co/models)
     1. Notes
 
 ### 3. Power Bi Project End-to-end | Sales Dashboard | Beginners | Complete Project | Resume - 2024 by DataWolfs (powerbi-sales)
