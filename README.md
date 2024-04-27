@@ -80,9 +80,7 @@ The main purpose of this repository is to organize and store learning materials 
 
 **Skip the `jupyter kernelspec uninstall env` command** for now. It's for advanced kernel management.
 
-
-
-I'd be glad to create improved documentation for setting up virtual environments for Python in VS Code, covering both Jupyter Notebooks and scripts:
+refer to virtual envt creation document for gmaps scraping
 
 **Setting Up Virtual Environments for Python in VS Code**
 
@@ -101,12 +99,6 @@ I'd be glad to create improved documentation for setting up virtual environments
    python -m venv env
    ```
 
-   - On macOS or Linux:
-
-     ```bash
-     python3 -m venv env
-     ```
-
 **3. Activating the Virtual Environment:**
 
    **Windows:**
@@ -120,6 +112,10 @@ I'd be glad to create improved documentation for setting up virtual environments
      ```bash
      source env/bin/activate
      ```
+
+.bat command prompt
+source macos, linux
+.Ps1 powershell
 
 - Your terminal prompt will now indicate that the virtual environment is active (e.g., `(env)your_username@your_machine:~/project_directory$`).
 
